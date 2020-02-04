@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/thefr/CLionProjects/CppProject1/money.cpp
+cmath
+-
+money.h
+C:/Users/thefr/CLionProjects/CppProject1/money.h
+
+C:/Users/thefr/CLionProjects/CppProject1/money.h
+iostream
+-
+string
+-
+sstream
+-
+iomanip
+-
+fstream
+-
+locale
+-
+
+C:/Users/thefr/CLionProjects/CppProject1/moneytest.cpp
+iostream
+-
+string
+-
+money.h
+C:/Users/thefr/CLionProjects/CppProject1/money.h
+

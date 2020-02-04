@@ -1,8 +1,8 @@
 /********
  Author: Professor Wooster
  Program: test program for Money class
- Due Date:
- Time Spent:
+ Due Date: 2/3/2020
+ Time Spent: 4hrs
  Purpose: provide a test driver for the Money class of program assignment #1
  Accomplishments: provide a test driver program for my C++ students to be able to test their first program assignment
  ********/
